@@ -5,7 +5,7 @@ import numpy as np
 import torchvision.utils as vutils
 from skimage import measure
 from loguru import logger
-from tools.render import Visualizer
+from .tools.render import Visualizer
 import cv2
 
 
